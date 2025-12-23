@@ -11,3 +11,5 @@ This task involves creating and configuring a cloud storage bucket using AWS S3 
 
 "OUTPUT':
 
+[INTERNSHIP TASK-1.docx](https://github.com/user-attachments/files/24314156/INTERNSHIP.TASK-1.docx)
+
